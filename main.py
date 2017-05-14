@@ -6,4 +6,5 @@ if len( sys.argv) <2:
 	exit()
 
 print "This is %s's first python program" % sys.argv[1]
+print "Add a new line to see if the server will be sync"
 
